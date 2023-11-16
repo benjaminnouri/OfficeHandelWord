@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OfficeHndelWor.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OfficeHandelWord.cpp
+F:\ME\sadsdsadsasa\OfficeHndelWor\OfficeHndelWor\OfficeHandelWord.cpp(77,38): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  OfficeHndelWor.vcxproj -> F:\ME\sadsdsadsasa\OfficeHndelWor\Debug\OfficeHandelWord.exe
